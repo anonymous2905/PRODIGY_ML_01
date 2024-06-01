@@ -8,11 +8,19 @@ Prerequisites
 Make sure you have Python installed on your system. You'll also need to install the following libraries:
 
 pandas
+
+
 matplotlib
+
+
 seaborn
+
+
 scikit-learn
 
 You can install these libraries using pip:
+
+
 pip install pandas matplotlib seaborn scikit-learn
 
 

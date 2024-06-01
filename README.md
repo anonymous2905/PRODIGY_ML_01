@@ -41,4 +41,6 @@ R-squared
 Additionally, it generates two plots:
 
 Actual Prices vs. Predicted Prices
+
+
 Residual Plot

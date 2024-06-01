@@ -11,32 +11,22 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-You can install these libraries using pip:
 
-Copy code
+You can install these libraries using pip:
 pip install pandas matplotlib seaborn scikit-learn
+
+
 Usage
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/your-username/house-price-prediction.git
-Navigate to the project directory:
-bash
-Copy code
-cd house-price-prediction
-Run the Python script:
-Copy code
-python house_price_prediction.py
-Dataset
+
 The dataset used in this project is stored in a CSV file named data.csv. It contains various features of houses (such as the number of bedrooms, bathrooms, living area square footage, etc.) along with their corresponding prices.
 
 Model Evaluation
+
 The script evaluates the performance of the linear regression model using two metrics:
 
 Mean Squared Error (MSE)
 R-squared (R2)
-Results
-After training the model and evaluating its performance, the script displays the following results:
+
 
 Mean Squared Error
 R-squared
